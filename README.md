@@ -40,9 +40,6 @@
 
 저는 아직 배워가는 과정에 있지만, **프로그래밍**과 **소프트웨어 개발**에 대한 열정을 가지고 꾸준히 공부하고 있습니다. 다양한 사람들과 교류하며 성장해가고 싶습니다! 😄
 
-## 📢 GitHub 팔로워
-![GitHub Followers](https://img.shields.io/github/followers/Jung-sb?style=social)
-
 
 <!---
 Jung-sb/Jung-sb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
