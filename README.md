@@ -43,6 +43,11 @@
 ## 📢 GitHub 팔로워
 ![GitHub Followers](https://img.shields.io/github/followers/Jung-sb?style=social)
 
+---
+
+![GitHub stars](https://img.shields.io/github/stars/Jung-sb/Jung-sb?style=flat)
+
+
 
 <!---
 Jung-sb/Jung-sb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
