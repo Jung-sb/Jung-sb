@@ -48,6 +48,12 @@
 ## ★ GitHub 스타
 ![GitHub stars](https://img.shields.io/github/stars/Jung-sb/Jung-sb?style=social)
 
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?Jung-sb=Jung-sb1&show_icons=true&theme=radical)
+![image](https://github.com/user-attachments/assets/a437cc8a-3e06-4ec1-91f7-c22bc1ab56da)
+
+
 
 
 <!---
