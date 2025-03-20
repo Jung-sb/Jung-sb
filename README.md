@@ -45,7 +45,7 @@
 
 ---
 
-## GitHub 스타
+## ★ GitHub 스타
 ![GitHub stars](https://img.shields.io/github/stars/Jung-sb/Jung-sb?style=flat)
 
 
