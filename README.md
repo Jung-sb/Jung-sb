@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Programing language
 - 💞️ I’m looking to collaborate on 윤덕규
 - 📫 How to reach me: Talk to me
-- 😄 Pronouns: 
+- 😄 Pronouns: Kind man
 - ⚡ Age: 25 
 <!---
 Jung-sb/Jung-sb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
