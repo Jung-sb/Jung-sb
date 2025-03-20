@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jung-sb
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Programing language
-- 💞️ I’m looking to collaborate on 윤덕규
+- 💞️ I’m looking to collaborate on 윤덕규, 이동엽
 - 📫 How to reach me: Talk to me
 - 😄 Pronouns: Kind man
 - ⚡ Age: 25 
