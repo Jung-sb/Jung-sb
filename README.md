@@ -54,8 +54,6 @@
 🕹️ **내가 처음 만들어본 게임**  
 👉 [🎮 Snake Game 플레이 보기](https://github.com/Jung-sb/snake-game)
 
-![Snake Game](https://raw.githubusercontent.com/Jung-sb/snake-game/main/screenshot.png)
-
 
 
 <!---
