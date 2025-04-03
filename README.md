@@ -43,20 +43,18 @@
 ## 📢 GitHub 팔로워
 ![GitHub Followers](https://img.shields.io/github/followers/Jung-sb?style=social)
 
----
-
 ## ★ GitHub 스타
-![GitHub stars](https://img.shields.io/github/stars/Jung-sb/Jung-sb?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/Jung-sb?style=social)
+
+## 📊 GitHub 활동 통계
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jung-sb&show_icons=true&theme=radical)
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?Jung-sb=Jung-sb1&show_icons=true&theme=radical)
-![image](https://github.com/user-attachments/assets/a437cc8a-3e06-4ec1-91f7-c22bc1ab56da)
+🕹️ **내가 처음 만들어본 게임**  
+👉 [🎮 Snake Game 플레이 보기](https://github.com/Jung-sb/snake-game)
 
----
-
-🕹️ **내가 처음 만들어본 게임** → [Snake Game](https://github.com/Jung-sb/snake-game)
-
+![Snake Game](https://raw.githubusercontent.com/Jung-sb/snake-game/main/screenshot.png)
 
 
 
