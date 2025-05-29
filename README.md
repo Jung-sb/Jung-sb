@@ -58,6 +58,7 @@
 
 👉 데모 페이지 https://Jung-sb.github.io/webapp001/
 
+---
 
 ## 🕹️ **내가 처음 만들어본 게임**  
 👉 [🎮 Snake Game 플레이 보기](https://github.com/Jung-sb/snake-game)
