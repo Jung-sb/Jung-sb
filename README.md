@@ -57,7 +57,7 @@
 ---
 
 ## ✨ **내가 처음 만들어본 웹앱** 
-(https://github.com/Jung-sb/Webapp
+https://github.com/Jung-sb/Webapp
 
 
 <!---
