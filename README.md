@@ -51,13 +51,19 @@
 
 ---
 
+## **내가 처음 실행해본 AI프로그램** ML
+🏆 웹앱으로 고양이와 강아지를 구분하는 AI프로그램을 만들다
+👉 코드설명 https://github.com/Jung-sb/webapp001/
+👉 데모 페이지 https://Jung-sb.github.io/webapp001/
+
+
 ## 🕹️ **내가 처음 만들어본 게임**  
 👉 [🎮 Snake Game 플레이 보기](https://github.com/Jung-sb/snake-game)
 
 ---
 
 ## ✨ **내가 처음 만들어본 웹앱** 
-https://github.com/Jung-sb/Webapp
+https://github.com/Jung-sb/Webapp/
 
 
 <!---
